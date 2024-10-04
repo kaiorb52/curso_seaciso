@@ -2,7 +2,7 @@
 
 Curso de introdução ao R para a semana acadêmica de Ciências Sociais/ UENF
 
--   Slides 
+-   [Slides](https://www.canva.com/design/DAGRrhB1-FI/fUmKJhHMlHccuI9odivGhg/view?utm_content=DAGRrhB1-FI&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 -   Scripts
 
